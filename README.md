@@ -157,20 +157,6 @@ alert("" - 1 + 0)           //-1
 ---
 
 1. 코딩테스트 문제 (정답 코드 해석하기)
-https://www.notion.so/JS-1-3930a7cf33e84726996d1a2e9389e52e?pvs=4#085d39565c8b4da5a547c912b8030d72
-function solution(sizes) {
-3.문자열+정수열 일때 , 비교
-
-```
-alert("" + 1 + 0)           //  10 
-alert("" - 1 + 0)           //-1
-```
-
-### 아직 모르겠어요
-
----
-
-1. 코딩테스트 문제 (정답 코드 해석하기)
 
 [코딩테스트 연습 - 최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
 
